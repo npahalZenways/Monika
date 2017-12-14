@@ -3,8 +3,5 @@
 		"removeComments":false,
 		"target":"es5",
 		"sourceMap":true
-	},
-	"files": [
-		"Typpe.ts"
-	]
+	}
 }
